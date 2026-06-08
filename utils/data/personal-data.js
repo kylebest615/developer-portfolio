@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/lightdev-bd/',
   leetcode: "https://leetcode.com/lightdev627/",
   devUsername: "lightdev627",
-  resume: "/resume.rar"
+  resume: "/resume.zip"
 }
